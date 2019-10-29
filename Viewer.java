@@ -7,9 +7,10 @@ import java.io.*;
 import java.util.*;
 import java.awt.*;
 /**
- * @author Saqib Zaidi Sahib
- * @paper COMPSCI 230
- * @AUID 222479856
+ * Given a trace file, the application creates a graphical display 
+ * of how much data comes from a particular source host, and how much 
+ * data goes to a particular destination host over time.
+ * @author Jacob Zaidi
  */
 public class Viewer extends JFrame  {
 	private static final long serialVersionUID = 1L;
